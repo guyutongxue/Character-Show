@@ -69,9 +69,8 @@
                 charElement.setAttribute('src', json[i].imgsrc);
                 charElement.setAttribute('alt', json[i].name);
                 $('#char-imgs-container').append(charElement);
+                $('#scroll-horizontally').scrollLeft($('#scroll-horizontally')[0].scrollWidth);
             }
-            // random position
-            $('#scroll-horizontally').scrollLeft = $('#scroll-horizontally').scrollWidth * (Math.random());
 
         });
     </script>
