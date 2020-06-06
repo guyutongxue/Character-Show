@@ -1,0 +1,80 @@
+<html>
+
+<head>
+    <title>Character List</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.4/clipboard.min.js"></script>
+    <style>
+        #scroll-horizontally {
+            display: flex;
+            padding-bottom: 20px;
+            /* Scroll bar */
+            height: 520px;
+            overflow-x: auto;
+            overflow-y: hidden;
+        }
+
+        #char-imgs-container {
+            display: flex;
+            align-items: flex-end;
+            height: 500px;
+            white-space: nowrap;
+            background-image: url("assets/bg.png");
+            background-repeat: repeat;
+        }
+
+        .char-img {
+            height: calc(var(--height, 155)*2.5px);
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <h1>My Favorite Anime Characters</h1>
+        <div id="scroll-horizontally">
+            <div id="char-imgs-container">
+            </div>
+        </div>
+    </div>
+    <script>
+        (function () {
+            function scrollHorizontally(e) {
+                e = window.event || e;
+                var delta = Math.max(-1, Math.min(1, (e.wheelDelta || -e.detail)));
+                document.getElementById('scroll-horizontally').scrollLeft -= (delta * 40); // Multiplied by 40
+                e.preventDefault();
+            }
+            if (document.getElementById('scroll-horizontally').addEventListener) {
+                // IE9, Chrome, Safari, Opera
+                document.getElementById('scroll-horizontally').addEventListener("mousewheel", scrollHorizontally, false);
+                // Firefox
+                document.getElementById('scroll-horizontally').addEventListener("DOMMouseScroll", scrollHorizontally, false);
+            } else {
+                // IE 6/7/8
+                document.getElementById('scroll-horizontally').attachEvent("onmousewheel", scrollHorizontally);
+            }
+        })();
+        // load characters
+        $.getJSON("json/character-list.json", function (json) {
+            console.log(json);
+            for (var i in json) {
+                var charElement = document.createElement('img');
+                charElement.setAttribute('class', 'char-img');
+                charElement.setAttribute('style', '--height:' + json[i].height + ';');
+                charElement.setAttribute('src', json[i].imgsrc);
+                charElement.setAttribute('alt', json[i].name);
+                $('#char-imgs-container').append(charElement);
+            }
+            // random position
+            $('#scroll-horizontally').scrollLeft = $('#scroll-horizontally').scrollWidth * (Math.random());
+
+        });
+    </script>
+</body>
+
+</html>

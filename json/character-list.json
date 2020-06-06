@@ -1,0 +1,127 @@
+[
+    {
+        "name": "灰原哀",
+        "height": 105,
+        "imgsrc": "img/01_1_haibara_ai.png"
+    },
+    {
+        "name": "小泉红子",
+        "height": 160,
+        "imgsrc": "img/01_2_koizumi_akako.png"
+    },
+    {
+        "name": "月咏小萌",
+        "height": 135,
+        "imgsrc": "img/02_1_tsukuyomi_komoe.png"
+    },
+    {
+        "name": "最后之作",
+        "height": 143,
+        "imgsrc": "img/02_2_last_order.png"
+    },
+    {
+        "name": "白井黑子",
+        "height": 152,
+        "imgsrc": "img/02_3_shirai_kuroko.png"
+    },
+    {
+        "name": "御坂妹妹",
+        "height": 161,
+        "imgsrc": "img/02_4_sisters.png"
+    },
+    {
+        "name": "南小鸟",
+        "height": 159,
+        "imgsrc": "img/03_1_minami_kotori.png"
+    },
+    {
+        "name": "黑泽露比",
+        "height": 144,
+        "imgsrc": "img/03_2_kurosawa_ruby.png"
+    },
+    {
+        "name": "土间埋",
+        "height": 160,
+        "imgsrc": "img/04_1_doma_umaru.png"
+    },
+    {
+        "name": "金刚光",
+        "height": 142,
+        "imgsrc": "img/04_2_kondou_hikari.png"
+    },
+    {
+        "name": "神崎·H·亚里亚",
+        "height": 142,
+        "imgsrc": "img/05_1_kanzaki_h_aria.png"
+    },
+    {
+        "name": "蕾姬",
+        "height": 150,
+        "imgsrc": "img/05_2_reki.png"
+    },
+    {
+        "name": "直树美纪",
+        "height": 145,
+        "imgsrc": "img/06_1_naoki_miki.png"
+    },
+    {
+        "name": "春日野穹",
+        "height": 152,
+        "imgsrc": "img/07_1_kasugano_sora.png"
+    },
+    {
+        "name": "渡边早季",
+        "height": 155,
+        "imgsrc": "img/08_1_watanabe_saki.png"
+    },
+    {
+        "name": "香风智乃",
+        "height": 144,
+        "imgsrc": "img/09_1_kafuu_chino.png"
+    },
+    {
+        "name": "结城明日奈",
+        "height": 163,
+        "imgsrc": "img/10_1_yuki_asuna.png"
+    },
+    {
+        "name": "朝田诗乃",
+        "height": 161,
+        "imgsrc": "img/10_2_asada_shino.png"
+    },
+    {
+        "name": "卡迪娜尔",
+        "height": 140,
+        "imgsrc": "img/10_3_cardinal.png"
+    },
+    {
+        "name": "蒂伊·恩吉·史特拉特米特斯",
+        "height": 155,
+        "imgsrc": "img/11_1_dee_ensy_stratmitos.png"
+    },
+    {
+        "name": "五河琴里",
+        "height": 155,
+        "imgsrc": "img/12_1_itsuka_kotori.png"
+    },
+    {
+        "name": "冈野日向",
+        "height": 147,
+        "imgsrc": "img/13_1_okano_hinata.png"
+    },
+    {
+        "name": "佐仓杏子",
+        "height": 156,
+        "imgsrc": "img/14_1_sakura_kyoko.png"
+    },
+    {
+        "name": "水波玲奈",
+        "height": 149,
+        "imgsrc": "img/14_2_minami_rena.png"
+    },
+    {
+        "name": "五更琉璃",
+        "height": 155,
+        "imgsrc": "img/15_1_gokoro_ruri.png"
+    }
+]

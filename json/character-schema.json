@@ -1,0 +1,29 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "array",
+    "title": "List of Characters",
+    "items": {
+        "type": "object",
+        "properties": {
+            "height": {
+                "type": "integer",
+                "title": "Height of the character"
+            },
+            "imgsrc": {
+                "type": "string",
+                "title": "Link to the image of the character"
+            },
+            "name": {
+                "type": "string",
+                "title": "Name of the character"
+            },
+            "anime": {
+                "type": "string",
+                "title": "Which anime"
+            }
+        },
+        "required": [
+            "imgsrc"
+        ]
+    }
+}
