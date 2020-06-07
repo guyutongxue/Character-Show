@@ -69,6 +69,7 @@
                 charElement.setAttribute('style', '--height:' + json[i].height + ';');
                 charElement.setAttribute('src', json[i].imgsrc);
                 charElement.setAttribute('alt', json[i].name);
+                charElement.setAttribute('title', json[i].name);
                 $(charElement).on("load", (function () {
                     $('#scroll-horizontally').scrollLeft($('#scroll-horizontally')[0].scrollWidth);
                 }));
