@@ -123,5 +123,156 @@
         "name": "五更琉璃",
         "height": 155,
         "imgsrc": "img/15_1_gokoro_ruri.png"
+    },
+    {
+        "name": "夏娜",
+        "height": 139,
+        "imgsrc": "img/16_1_shana.png"
+    },
+    {
+        "name": "袴田日向",
+        "height": 131,
+        "imgsrc": "img/17_1_hakamada_hinata.png"
+    },
+    {
+        "name": "有川辉夜",
+        "height": 175,
+        "imgsrc": "img/18_1_arikawa_kaguya.png"
+    },
+    {
+        "name": "宇佐美瑞希",
+        "height": 158,
+        "imgsrc": "img/19_1_usami_mizuki.png"
+    },
+    {
+        "name": "塔城小猫",
+        "height": 150,
+        "imgsrc": "img/20_1_toujou_koneko.png"
+    },
+    {
+        "name": "奈亚子",
+        "height": 170,
+        "imgsrc": "img/21_1_nyarlathotep.png"
+    },
+    {
+        "name": "凉风青叶",
+        "height": 149,
+        "imgsrc": "img/22_1_suzukaze_aoba.png"
+    },
+    {
+        "name": "若菜羽衣",
+        "height": 95,
+        "imgsrc" : "img/23_1_wakana_ui.png",
+        "$comment": "官网和民间都没有这个角色的立绘。"
+    },
+    {
+        "name": "叶波柚香",
+        "height": 153,
+        "imgsrc": "img/24_1_harami_yuzuka.png"
+    },
+    {
+        "name": "梦原知予",
+        "height": 164,
+        "imgsrc": "img/25_1_yumehara_chiyo.png"
+    },
+    {
+        "name": "小虎皮",
+        "height": 8,
+        "imgsrc": "img/26_1_kotora.png"
+    },
+    {
+        "name": "樋口绘里",
+        "height": 152,
+        "imgsrc": "img/27_1_hibichi_eri.png"
+    },
+    {
+        "name": "苑生百花",
+        "height": 159,
+        "imgsrc": "img/28_1_sonou_momoka.png"
+    },
+    {
+        "name": "胡桃泽·萨塔妮基亚·麦克道威尔",
+        "height": 157,
+        "imgsrc": "img/29_1_kurumizawa_satanichia_mcdowell.png"
+    },
+    {
+        "name": "白鸟杏美",
+        "height": 155,
+        "imgsrc": "img/30_1_mirei_azumi.png"
+    },
+    {
+        "name": "桃原奈月",
+        "height": 154,
+        "imgsrc": "img/31_1_momohara_natsuki.png"
+    },
+    {
+        "name": "天月真白",
+        "height": 183,
+        "imgsrc": "img/31_2_amatsuki_mashiro.png"
+    },
+    {
+        "name": "山田妖精",
+        "height": 150,
+        "imgsrc": "img/32_1_emily_granger.png"
+    },
+    {
+        "name": "柊真雪",
+        "height": 143,
+        "imgsrc": "img/33_1_hiiragi_mayuki.png"
+    },
+    {
+        "name": "樫村纱名",
+        "height": 135,
+        "imgsrc": "img/34_1_kashimura_sana.png"
+    },
+    {
+        "name": "神崎灯代",
+        "height": 163,
+        "imgsrc": "img/36_1_kanzaki_tomoyo.png"
+    },
+    {
+        "name": "五岛润",
+        "height": 138,
+        "imgsrc": "img/37_1_gotou_jun.png"
+    },
+    {
+        "name": "水科萤",
+        "height": 167,
+        "imgsrc": "img/38_1_kazushina_hotaru.png"
+    },
+    {
+        "name": "安洁",
+        "height": 163,
+        "imgsrc": "img/39_1_ange.png"
+    },
+    {
+        "name": "神崎日照",
+        "height": 163,
+        "imgsrc": "img/40_1_kanzaki_hideri.png"
+    },
+    {
+        "name": "柚",
+        "height": 145,
+        "imgsrc": "img/41_1_yuzu.png"
+    },
+    {
+        "name": "香坂秋穂",
+        "height": 160,
+        "imgsrc": "img/42_1_kousaka_akiho.png"
+    },
+    {
+        "name": "百地玉手",
+        "height": 158,
+        "imgsrc": "img/43_1_momochi_tamate.png"
+    },
+    {
+        "name": "夜叉神天衣",
+        "height": 123,
+        "imgsrc": "img/44_1_kashajin_ai.png"
+    },
+    {
+        "name": "萌田薰子",
+        "height": 140,
+        "imgsrc": "img/45_1_moeta_kaoruko.png"
     }
 ]
