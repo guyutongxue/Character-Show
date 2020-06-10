@@ -274,5 +274,85 @@
         "name": "萌田薰子",
         "height": 140,
         "imgsrc": "img/45_1_moeta_kaoruko.png"
+    },
+    {
+        "name": "杏子",
+        "height": 155,
+        "imgsrc": "img/46_1_anzu.png"
+    },
+    {
+        "name": "璃星",
+        "height": 152,
+        "imgsrc": "img/47_1_rise.png"
+    },
+    {
+        "name": "御原凛音",
+        "height": 150,
+        "imgsrc": "img/48_1_ohara_rinne.png"
+    },
+    {
+        "name": "三谷裳千绪",
+        "height": 155,
+        "imgsrc": "img/49_1_miyamo_chio.png"
+    },
+    {
+        "name": "血小板（放大50000倍）",
+        "height": 12,
+        "imgsrc": "img/50_1_kesshouban.png"
+    },
+    {
+        "name": "大场奈奈",
+        "height": 155,
+        "imgsrc": "img/51_1_daiba_nana.png"
+    },
+    {
+        "name": "有马日诘",
+        "height": 163,
+        "imgsrc": "img/52_1_arima_hizume.png"
+    },
+    {
+        "name":"砂尾奈子",
+        "height": 158,
+        "imgsrc": "img/54_1_sunao_nako.png"
+    },
+    {
+        "name": "灶门祢豆子",
+        "height": 153,
+        "imgsrc": "img/55_1_kamado_nezuko.png"
+    },
+    {
+        "name": "斑",
+        "height": 168,
+        "imgsrc": "img/56_1_madara_san.png"
+    },
+    {
+        "name": "九条紫音",
+        "height": 162,
+        "imgsrc": "img/57_1_kujou_shion.png"
+    },
+    {
+        "name": "林宁宁",
+        "height": 145,
+        "imgsrc": "img/58_1_rin_nene.png"
+    },
+    {
+        "name": "千代田桃",
+        "height": 163,
+        "imgsrc": "img/59_1_chiyoda_momo.png"
+    },
+    {
+        "name": "拉提娜",
+        "height": 110,
+        "imgsrc": "img/60_1_latina.png"
+    },
+    {
+        "name": "古贺唯花",
+        "height": 155,
+        "imgsrc": "img/61_1_koga_yuika.png"
+    },
+    {
+        "name": "真中苍",
+        "height": 155,
+        "imgsrc": "img/62_1_manaka_ao.png"
     }
 ]
