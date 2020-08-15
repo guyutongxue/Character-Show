@@ -2,357 +2,428 @@
     {
         "name": "灰原哀",
         "height": 105,
-        "imgsrc": "img/01_1_haibara_ai.png"
+        "imgsrc": "img/01_1_haibara_ai.png",
+        "al_id": 1743
     },
     {
         "name": "小泉红子",
         "height": 160,
-        "imgsrc": "img/01_2_koizumi_akako.png"
+        "imgsrc": "img/01_2_koizumi_akako.png",
+        "al_id": 13974
     },
     {
         "name": "月咏小萌",
         "height": 135,
-        "imgsrc": "img/02_1_tsukuyomi_komoe.png"
+        "imgsrc": "img/02_1_tsukuyomi_komoe.png",
+        "al_id": 16222
     },
     {
         "name": "最后之作",
         "height": 143,
-        "imgsrc": "img/02_2_last_order.png"
+        "imgsrc": "img/02_2_last_order.png",
+        "al_id": 19737
     },
     {
         "name": "白井黑子",
         "height": 152,
-        "imgsrc": "img/02_3_shirai_kuroko.png"
+        "imgsrc": "img/02_3_shirai_kuroko.png",
+        "al_id": 17017
     },
     {
         "name": "御坂妹妹",
         "height": 161,
-        "imgsrc": "img/02_4_sisters.png"
+        "imgsrc": "img/02_4_sisters.png",
+        "al_id": 161007
     },
     {
         "name": "南小鸟",
         "height": 159,
-        "imgsrc": "img/03_1_minami_kotori.png"
+        "imgsrc": "img/03_1_minami_kotori.png",
+        "al_id": 46013
     },
     {
         "name": "黑泽露比",
         "height": 144,
-        "imgsrc": "img/03_2_kurosawa_ruby.png"
+        "imgsrc": "img/03_2_kurosawa_ruby.png",
+        "al_id": 89852
     },
     {
         "name": "土间埋",
         "height": 160,
-        "imgsrc": "img/04_1_doma_umaru.png"
+        "imgsrc": "img/04_1_doma_umaru.png",
+        "al_id": 89019
     },
     {
         "name": "金刚光",
         "height": 142,
-        "imgsrc": "img/04_2_kondou_hikari.png"
+        "imgsrc": "img/04_2_kongou_hikari.png",
+        "al_id": 124556
     },
     {
         "name": "神崎·H·亚里亚",
         "height": 142,
-        "imgsrc": "img/05_1_kanzaki_h_aria.png"
+        "imgsrc": "img/05_1_kanzaki_h_aria.png",
+        "al_id": 30046
     },
     {
         "name": "蕾姬",
         "height": 150,
-        "imgsrc": "img/05_2_reki.png"
+        "imgsrc": "img/05_2_reki.png",
+        "al_id": 40712
     },
     {
         "name": "直树美纪",
         "height": 145,
-        "imgsrc": "img/06_1_naoki_miki.png"
+        "imgsrc": "img/06_1_naoki_miki.png",
+        "al_id": 89054
     },
     {
         "name": "春日野穹",
         "height": 152,
-        "imgsrc": "img/07_1_kasugano_sora.png"
+        "imgsrc": "img/07_1_kasugano_sora.png",
+        "al_id": 33221
     },
     {
         "name": "渡边早季",
         "height": 155,
-        "imgsrc": "img/08_1_watanabe_saki.png"
+        "imgsrc": "img/08_1_watanabe_saki.png",
+        "al_id": 57569
     },
     {
         "name": "香风智乃",
         "height": 144,
-        "imgsrc": "img/09_1_kafuu_chino.png"
+        "imgsrc": "img/09_1_kafuu_chino.png",
+        "al_id": 88032
     },
     {
         "name": "结城明日奈",
         "height": 163,
-        "imgsrc": "img/10_1_yuki_asuna.png"
+        "imgsrc": "img/10_1_yuuki_asuna.png",
+        "al_id": 36828
     },
     {
         "name": "朝田诗乃",
         "height": 161,
-        "imgsrc": "img/10_2_asada_shino.png"
+        "imgsrc": "img/10_2_asada_shino.png",
+        "al_id": 55147
     },
     {
         "name": "卡迪娜尔",
         "height": 140,
-        "imgsrc": "img/10_3_cardinal.png"
+        "imgsrc": "img/10_3_cardinal.png",
+        "al_id": 123199
     },
     {
         "name": "蒂伊·恩吉·史特拉特米特斯",
         "height": 155,
-        "imgsrc": "img/11_1_dee_ensy_stratmitos.png"
+        "imgsrc": "img/11_1_dee_ensy_stratmitos.png",
+        "al_id": 86345
     },
     {
         "name": "五河琴里",
         "height": 165,
-        "imgsrc": "img/12_1_itsuka_kotori.png"
+        "imgsrc": "img/12_1_itsuka_kotori.png",
+        "al_id": 65263
     },
     {
         "name": "冈野日向",
         "height": 147,
-        "imgsrc": "img/13_1_okano_hinata.png"
+        "imgsrc": "img/13_1_okano_hinata.png",
+        "al_id": 88804
     },
     {
         "name": "佐仓杏子",
         "height": 156,
-        "imgsrc": "img/14_1_sakura_kyouko.png"
+        "imgsrc": "img/14_1_sakura_kyouko.png",
+        "al_id": 40006
     },
     {
         "name": "水波玲奈",
         "height": 149,
-        "imgsrc": "img/14_2_minami_rena.png"
+        "imgsrc": "img/14_2_minami_rena.png",
+        "al_id": 151333
     },
     {
         "name": "五更琉璃",
         "height": 155,
-        "imgsrc": "img/15_1_gokoro_ruri.png"
+        "imgsrc": "img/15_1_gokou_ruri.png",
+        "al_id": 31008
     },
     {
         "name": "夏娜",
         "height": 139,
-        "imgsrc": "img/16_1_shana.png"
+        "imgsrc": "img/16_1_shana.png",
+        "al_id": 1426
     },
     {
         "name": "袴田日向",
         "height": 131,
-        "imgsrc": "img/17_1_hakamada_hinata.png"
+        "imgsrc": "img/17_1_hakamada_hinata.png",
+        "al_id": 42223
     },
     {
         "name": "有川辉夜",
         "height": 175,
-        "imgsrc": "img/18_1_arikawa_kaguya.png"
+        "imgsrc": "img/18_1_arikawa_kaguya.png",
+        "al_id": 88701
     },
     {
         "name": "宇佐美瑞希",
         "height": 158,
-        "imgsrc": "img/19_1_usami_mizuki.png"
+        "imgsrc": "img/19_1_usami_mizuki.png",
+        "al_id": 82335
     },
     {
         "name": "塔城小猫",
         "height": 150,
-        "imgsrc": "img/20_1_toujou_koneko.png"
+        "imgsrc": "img/20_1_toujou_koneko.png",
+        "al_id": 51343
     },
     {
         "name": "奈亚子",
         "height": 170,
-        "imgsrc": "img/21_1_nyarlathotep.png"
+        "imgsrc": "img/21_1_nyarlathotep.png",
+        "al_id": 31418
     },
     {
         "name": "凉风青叶",
         "height": 149,
-        "imgsrc": "img/22_1_suzukaze_aoba.png"
+        "imgsrc": "img/22_1_suzukaze_aoba.png",
+        "al_id": 89641
     },
     {
         "name": "若菜羽衣",
         "height": 95,
         "imgsrc" : "img/23_1_wakana_ui.png",
+        "al_id": 81703,
         "$comment": "官网和民间都没有这个角色的立绘。"
     },
     {
         "name": "叶波柚香",
         "height": 153,
-        "imgsrc": "img/24_1_hanami_yuzuka.png"
+        "imgsrc": "img/24_1_hanami_yuzuka.png",
+        "al_id": 133877
     },
     {
         "name": "梦原知予",
         "height": 164,
-        "imgsrc": "img/25_1_yumehara_chiyo.png"
+        "imgsrc": "img/25_1_yumehara_chiyo.png",
+        "al_id": 90115
     },
     {
         "name": "小虎皮",
         "height": 8,
-        "imgsrc": "img/26_1_kotora.png"
+        "imgsrc": "img/26_1_kotora.png",
+        "al_id": 150030
     },
     {
         "name": "樋口绘里",
         "height": 152,
-        "imgsrc": "img/27_1_higuchi_eri.png"
+        "imgsrc": "img/27_1_higuchi_eri.png",
+        "al_id": 123081
     },
     {
         "name": "苑生百花",
         "height": 159,
-        "imgsrc": "img/28_1_sonou_momoka.png"
+        "imgsrc": "img/28_1_sonou_momoka.png",
+        "al_id": 120240
     },
     {
         "name": "胡桃泽·萨塔妮基亚·麦克道威尔",
         "height": 157,
-        "imgsrc": "img/29_1_kurumizawa_satanichia_mcdowell.png"
+        "imgsrc": "img/29_1_kurumizawa_satanichia_mcdowell.png",
+        "al_id": 120939
     },
     {
         "name": "白鸟杏美",
         "height": 155,
-        "imgsrc": "img/30_1_shiratori_azumi.png"
+        "imgsrc": "img/30_1_shiratori_azumi.png",
+        "al_id": 143316
     },
     {
         "name": "桃原奈月",
         "height": 154,
-        "imgsrc": "img/31_1_momohara_natsuki.png"
+        "imgsrc": "img/31_1_momohara_natsuki.png",
+        "al_id": 127268
     },
     {
         "name": "天月真白",
         "height": 183,
-        "imgsrc": "img/31_2_amatsuki_mashiro.png"
+        "imgsrc": "img/31_2_amatsuki_mashiro.png",
+        "al_id": 127479
     },
     {
         "name": "山田妖精",
         "height": 150,
-        "imgsrc": "img/32_1_emily_granger.png"
+        "imgsrc": "img/32_1_emily_granger.png",
+        "al_id": 121473
     },
     {
         "name": "柊真雪",
         "height": 143,
-        "imgsrc": "img/33_1_hiiragi_mayuki.png"
+        "imgsrc": "img/33_1_hiiragi_mayuki.png",
+        "al_id": 121495
     },
     {
         "name": "樫村纱名",
         "height": 135,
-        "imgsrc": "img/34_1_kashimura_sana.png"
+        "imgsrc": "img/34_1_kashimura_sana.png",
+        "al_id": 121408
     },
     {
         "name": "神崎灯代",
         "height": 163,
-        "imgsrc": "img/36_1_kanzaki_tomoyo.png"
+        "imgsrc": "img/36_1_kanzaki_tomoyo.png",
+        "al_id": 88604
     },
     {
         "name": "五岛润",
         "height": 138,
-        "imgsrc": "img/37_1_gotou_jun.png"
+        "imgsrc": "img/37_1_gotou_jun.png",
+        "al_id": 123267
     },
     {
         "name": "水科萤",
         "height": 167,
-        "imgsrc": "img/38_1_kazushina_hotaru.png"
+        "imgsrc": "img/38_1_mizushina_hotaru.png",
+        "al_id": 89976
     },
     {
         "name": "安洁",
         "height": 163,
-        "imgsrc": "img/39_1_ange.png"
+        "imgsrc": "img/39_1_ange.png",
+        "al_id": 122800
     },
     {
         "name": "神崎日照",
         "height": 163,
-        "imgsrc": "img/40_1_kanzaki_hideri.png"
+        "imgsrc": "img/40_1_kanzaki_hideri.png",
+        "al_id": 123295
     },
     {
         "name": "柚",
         "height": 145,
-        "imgsrc": "img/41_1_yuzu.png"
+        "imgsrc": "img/41_1_yuzu.png",
+        "al_id": 123777
     },
     {
         "name": "香坂秋穂",
         "height": 160,
-        "imgsrc": "img/42_1_kousaka_akiho.png"
+        "imgsrc": "img/42_1_kousaka_akiho.png",
+        "al_id": 123890
     },
     {
         "name": "百地玉手",
         "height": 158,
-        "imgsrc": "img/43_1_momochi_tamate.png"
+        "imgsrc": "img/43_1_momochi_tamate.png",
+        "al_id": 124745
     },
     {
         "name": "夜叉神天衣",
         "height": 123,
-        "imgsrc": "img/44_1_yashajin_ai.png"
+        "imgsrc": "img/44_1_yashajin_ai.png",
+        "al_id": 124724
     },
     {
         "name": "萌田薰子",
         "height": 140,
-        "imgsrc": "img/45_1_moeta_kaoruko.png"
+        "imgsrc": "img/45_1_moeta_kaoruko.png",
+        "al_id": 125014
     },
     {
         "name": "杏子",
         "height": 155,
-        "imgsrc": "img/46_1_anzu.png"
+        "imgsrc": "img/46_1_anzu.png",
+        "al_id": 125362
     },
     {
         "name": "璃星",
         "height": 152,
-        "imgsrc": "img/47_1_rise.png"
+        "imgsrc": "img/47_1_rise.png",
+        "al_id": 125357
     },
     {
         "name": "御原凛音",
         "height": 150,
-        "imgsrc": "img/48_1_ohara_rinne.png"
+        "imgsrc": "img/48_1_ohara_rinne.png",
+        "al_id": 125001
     },
     {
         "name": "三谷裳千绪",
         "height": 155,
-        "imgsrc": "img/49_1_miyamo_chio.png"
+        "imgsrc": "img/49_1_miyamo_chio.png",
+        "al_id": 125854
     },
     {
         "name": "血小板（放大50000倍）",
         "height": 12,
-        "imgsrc": "img/50_1_kesshouban.png"
+        "imgsrc": "img/50_1_kesshouban.png",
+        "al_id": 127417
     },
     {
         "name": "大场奈奈",
         "height": 155,
-        "imgsrc": "img/51_1_daiba_nana.png"
+        "imgsrc": "img/51_1_daiba_nana.png",
+        "al_id": 126662
     },
     {
         "name": "有马日诘",
         "height": 163,
-        "imgsrc": "img/52_1_arima_hizume.png"
+        "imgsrc": "img/52_1_arima_hizume.png",
+        "al_id": 127934
     },
     {
         "name":"砂尾奈子",
         "height": 158,
-        "imgsrc": "img/54_1_sunao_nako.png"
+        "imgsrc": "img/54_1_sunao_nako.png",
+        "al_id": 128984
     },
     {
         "name": "灶门祢豆子",
         "height": 153,
-        "imgsrc": "img/55_1_kamado_nezuko.png"
+        "imgsrc": "img/55_1_kamado_nezuko.png",
+        "al_id": 127518
     },
     {
         "name": "斑",
         "height": 168,
-        "imgsrc": "img/56_1_madara_san.png"
+        "imgsrc": "img/56_1_madara_san.png",
+        "al_id": 136973
     },
     {
         "name": "九条紫音",
         "height": 162,
-        "imgsrc": "img/57_1_kujou_shion.png"
+        "imgsrc": "img/57_1_kujou_shion.png",
+        "al_id": 136414
     },
     {
         "name": "林宁宁",
         "height": 145,
-        "imgsrc": "img/58_1_rin_nene.png"
+        "imgsrc": "img/58_1_rin_nene.png",
+        "al_id": 140406
     },
     {
         "name": "千代田桃",
         "height": 163,
-        "imgsrc": "img/59_1_chiyoda_momo.png"
+        "imgsrc": "img/59_1_chiyoda_momo.png",
+        "al_id": 141457
     },
     {
         "name": "拉提娜",
         "height": 110,
-        "imgsrc": "img/60_1_latina.png"
+        "imgsrc": "img/60_1_latina.png",
+        "al_id": 137630
     },
     {
         "name": "古贺唯花",
         "height": 155,
-        "imgsrc": "img/61_1_koga_yuika.png"
+        "imgsrc": "img/61_1_koga_yuika.png",
+        "al_id": 135803
     },
     {
         "name": "真中苍",
         "height": 155,
-        "imgsrc": "img/62_1_manaka_ao.png"
+        "imgsrc": "img/62_1_manaka_ao.png",
+        "al_id": 140052
     }
 ]

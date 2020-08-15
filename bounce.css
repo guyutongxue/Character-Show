@@ -1,0 +1,32 @@
+/* https://stackoverflow.com/questions/39544180/how-to-create-css3-bounce-effect-with-pure-css */
+
+.bounce {
+    animation        : bounce 1s 1;
+}
+
+.bounce2 {
+    animation              : bounce 1s infinite;
+    animation-delay        : 0.25s;
+}
+
+.bounce3 {
+    animation              : bounce 1s infinite;
+    animation-delay        : 5s;
+}
+
+@keyframes bounce {
+
+    0%,
+    50%,
+    100% {
+        transform: translateY(0);
+    }
+
+    25% {
+        transform: translateY(-30px);
+    }
+
+    75% {
+        transform: translateY(-15px);
+    }
+}

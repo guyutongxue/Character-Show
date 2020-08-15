@@ -20,6 +20,10 @@
             "anime": {
                 "type": "string",
                 "title": "Which anime"
+            },
+            "al_id": {
+                "type": "integer",
+                "title": "AniList ID"
             }
         },
         "required": [
