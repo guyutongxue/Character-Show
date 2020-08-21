@@ -26,18 +26,26 @@
                 </div>
             </div>
             <div class="col-lg-3">
-                <div class="py-3 d-flex flex-row flex-lg-column large-image-container text-lg-center">
-                    <img class="shadow" id="largeImage" src="assets/none.svg" alt="">
-                    <div class="ml-4 ml-lg-0 mt-4">
-                        <h3 id="characterName"></h3>
+                <div class="row py-3 d-flex flex-row flex-lg-column">
+                    <div class="col col-lg-12">
+                        <div class="shadow large-image-container">
+                            <img id="largeImage" src="assets/none.svg" alt="">
+                        </div>
+                    </div>
+                    <div class="col col-lg-12 mt-4">
+                        <h3 id="characterName" class="text-center"></h3>
+                        <details class="d-none d-lg-block">
+                            <summary>简介 (English)</summary>
+                            <p class="character-discription"></p>
+                        </details>
+                        <p class="d-block d-lg-none character-discription"></p>
                     </div>
                 </div>
             </div>
         </div>
+        <p class="text-right">Powered by <a href="//anilist.co" target="_blank" class="badge badge-secondary"><img src="https://anilist.co/img/icons/icon.svg" height="15">AniList</a></p>
     </div>
-    <script src="index.js">
-
-    </script>
+    <script src="index.js"></script>
 </body>
 
 </html>

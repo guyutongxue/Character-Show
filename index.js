@@ -8,21 +8,23 @@
     });
 }
 var currentId = undefined;
-var imageLinks = {};
+var storage = {};
 function showImage(id) {
     currentId = id;
-    if (id in imageLinks) {
-        $('#largeImage').attr('src', imageLinks[id]);
+    if (id in storage) {
+        $('#largeImage').attr('src', storage[id].data.Character.image.large);
+        $('.character-discription').html(storage[id].data.Character.description);
         return;
     }
-    let link = undefined;
     $('#largeImage').attr('src', 'assets/loading.svg');
+    $('.character-discription').html('');
     let query = `
 query ($id: Int) { # Define which variables will be used in the query (id)
   Character (id: $id) {
     image {
         large
     }
+    description(asHtml: true)
   }
 }
 `;
@@ -40,15 +42,16 @@ query ($id: Int) { # Define which variables will be used in the query (id)
             }
         }),
         success: json => {
-            link = json.data.Character.image.large;
-            imageLinks[id] = link;
+            storage[id] = json;
             if (typeof (currentId) === "undefined" || currentId === id) {
-                $('#largeImage').attr('src', link);
+                $('#largeImage').attr('src', json.data.Character.image.large);
+                $('.character-discription').html(json.data.Character.description);
             }
         },
         error: xhr => {
             console.error(xhr);
             $('#largeImage').attr('src', 'assets/none.svg');
+            $('.character-discription').html('');
         }
     })
 
