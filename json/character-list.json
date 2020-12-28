@@ -96,6 +96,12 @@
         "al_id": 88032
     },
     {
+        "name": "桐间纱路",
+        "height": 151,
+        "imgsrc": "img/09_2_kirima_sharo.png",
+        "al_id": 88033
+    },
+    {
         "name": "结城明日奈",
         "height": 163,
         "imgsrc": "img/10_1_yuuki_asuna.png",
@@ -112,6 +118,12 @@
         "height": 140,
         "imgsrc": "img/10_3_cardinal.png",
         "al_id": 123199
+    },
+    {
+        "name": "爱丽丝·滋贝鲁库",
+        "height": 170,
+        "imgsrc": "img/10_4_alice_zuberg.png",
+        "al_id": 75450
     },
     {
         "name": "蒂伊·恩吉·史特拉特米特斯",
