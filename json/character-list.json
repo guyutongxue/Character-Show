@@ -48,6 +48,12 @@
         "al_id": 89852
     },
     {
+        "name": "高咲侑",
+        "height": 156,
+        "imgsrc": "img/03_3_takasaki_yuu.png",
+        "al_id": 170349
+    },
+    {
         "name": "平安名堇",
         "height": 161,
         "imgsrc": "img/03_3_heanna_sumire.png",
@@ -212,7 +218,7 @@
     {
         "name": "若菜羽衣",
         "height": 95,
-        "imgsrc" : "img/23_1_wakana_ui.png",
+        "imgsrc": "img/23_1_wakana_ui.png",
         "al_id": 81703,
         "$comment": "官网和民间都没有这个角色的立绘。"
     },
@@ -379,10 +385,10 @@
         "al_id": 127417
     },
     {
-        "name": "大场奈奈",
+        "name": "神乐光",
         "height": 155,
-        "imgsrc": "img/51_1_daiba_nana.png",
-        "al_id": 126662
+        "imgsrc": "img/51_1_kagura_hikari.png",
+        "al_id": 126668
     },
     {
         "name": "有马日诘",
@@ -391,7 +397,7 @@
         "al_id": 127934
     },
     {
-        "name":"砂尾奈子",
+        "name": "砂尾奈子",
         "height": 158,
         "imgsrc": "img/54_1_sunao_nako.png",
         "al_id": 128984
@@ -403,45 +409,51 @@
         "al_id": 127518
     },
     {
-        "name": "斑",
-        "height": 168,
-        "imgsrc": "img/56_1_madara_san.png",
-        "al_id": 136973
-    },
-    {
         "name": "九条紫音",
         "height": 162,
-        "imgsrc": "img/57_1_kujou_shion.png",
+        "imgsrc": "img/56_1_kujou_shion.png",
         "al_id": 136414
     },
     {
         "name": "林宁宁",
         "height": 145,
-        "imgsrc": "img/58_1_rin_nene.png",
+        "imgsrc": "img/57_1_rin_nene.png",
         "al_id": 140406
     },
     {
         "name": "千代田桃",
         "height": 163,
-        "imgsrc": "img/59_1_chiyoda_momo.png",
+        "imgsrc": "img/58_1_chiyoda_momo.png",
         "al_id": 141457
     },
     {
         "name": "拉提娜",
         "height": 110,
-        "imgsrc": "img/60_1_latina.png",
+        "imgsrc": "img/59_1_latina.png",
         "al_id": 137630
     },
     {
         "name": "古贺唯花",
         "height": 155,
-        "imgsrc": "img/61_1_koga_yuika.png",
+        "imgsrc": "img/60_1_koga_yuika.png",
         "al_id": 135803
     },
     {
         "name": "真中苍",
         "height": 155,
-        "imgsrc": "img/62_1_manaka_ao.png",
+        "imgsrc": "img/61_1_manaka_ao.png",
         "al_id": 140052
+    },
+    {
+        "name": "贯井波游",
+        "height": 163,
+        "imgsrc": "img/62_1_nukui_hayu.png",
+        "al_id": 164771
+    },
+    {
+        "name": "志摩凛",
+        "height": 155,
+        "imgsrc": "img/63_1_shima_rin.png",
+        "al_id": 124586
     }
 ]

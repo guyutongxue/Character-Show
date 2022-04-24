@@ -1,0 +1,10 @@
+{
+    "json.schemas": [
+        {
+            "fileMatch": [
+                "json/character-list.json"
+            ],
+            "url": "https://cdn.jsdelivr.net/gh/Guyutongxue/Character-Show@master/json/character-schema.json"
+        }
+    ]
+}
