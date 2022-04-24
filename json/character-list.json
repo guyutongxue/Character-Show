@@ -455,5 +455,11 @@
         "height": 155,
         "imgsrc": "img/63_1_shima_rin.png",
         "al_id": 124586
+    },
+    {
+        "name": "吉永恋",
+        "height": 145,
+        "imgsrc": "img/64_1_yoshinaga_koi.png",
+        "al_id": 202956
     }
 ]
