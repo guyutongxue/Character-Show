@@ -461,5 +461,11 @@
         "height": 145,
         "imgsrc": "img/64_1_yoshinaga_koi.png",
         "al_id": 202956
+    },
+    {
+        "name": "橘爱丽丝",
+        "height": 141,
+        "imgsrc": "img/69_1_tachibana_arisu.png",
+        "al_id": 129277
     }
 ]
